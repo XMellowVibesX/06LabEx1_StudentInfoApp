@@ -1,0 +1,10 @@
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentINfo.resources
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\KYRA JESSICA\source\repos\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
